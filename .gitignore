@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/distributions/
+/build/js/packages/HelloKotlinRect/kotlin/
+
+.idea/
+.idea/*
